@@ -11,26 +11,35 @@ Notes application by which we can Add a note, Remove a note, Read a specific not
     ```
 2. Run the following commands. Before that make sure NodeJS is installed in your machine.  
     
-    a. For Installing npm  
+    A. For Installing npm  
     ``` 
     $ npm install 
     ```
-    then 
-      i. For Adding a Note  
-            ``` $ node app.js add --title="Note 1" --body="Design a Web Page" ```     
-            **New Note added!**  
+    then
+    
+    B. For Adding a Note  
+    ```
+       $ node app.js add --title="Note 1" --body="Design a Web Page" 
+    ```     
+      **New Note added!**  
             
-      ii. For Removing a Note  
-            ``` $ node app.js remove --title="Note 2" ```       
-            If note found then **Note removed!** if not then **No note found!** 
+    C. For Removing a Note  
+    ```
+       $ node app.js remove --title="Note 2"
+    ```       
+      If note found then **Note removed!** if not then **No note found!** 
             
-      iii. For Reading a Specific Note  
-            ``` $ node app.js read --title="Note 1" ```  
-            If note found then **Note name- note_title & Note body- body_of_note** if not then **No note found!**
+    D. For Reading a Specific Note  
+    ``` 
+       $ node app.js read --title="Note 1" 
+    ```  
+      If note found then **Note name- note_title & Note body- body_of_note** if not then **No note found!**
             
-      iv. For Listing all the Notes  
-            ``` $ node app.js list ```   
-            **Your Notes - Note 1, Note 2, Note 3** 
+    E. For Listing all the Notes  
+    ``` 
+       $ node app.js list 
+    ```   
+      **Your Notes - Note 1, Note 2, Note 3** 
     
     **JSON FILE**: In which All Notes get saved!
     ```
