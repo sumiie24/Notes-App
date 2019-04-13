@@ -1,5 +1,6 @@
 # Notes-App
-Notes Application using NodeJS. Notes application by which we can Add a note, Remove a note, Read a specific note and can List all the notes in the file. All notes are saved in the JSON file.
+Notes Application using NodeJS.    
+Notes application by which we can Add a note, Remove a note, Read a specific note and can List all the notes from the file. All notes are saved in the JSON file.
 
 
 ## To Run the project
@@ -29,7 +30,7 @@ Notes Application using NodeJS. Notes application by which we can Add a note, Re
     
     d. For Reading a Specific Note  
     ``` $ node app.js read --title="Note 1" ```  
-    If note found then **Note name- Note 1 & Note body- Design a web page** if not then **No note found!**
+    If note found then **Note name- note_title & Note body- body_of_note** if not then **No note found!**
    
     
     e. For Listing all the Notes  
