@@ -1,7 +1,7 @@
 # Notes-App
 Notes Application using NodeJS.
 
-## To view the project
+## To Run the project
 1. Clone all the files in a folder.
   
     ```
