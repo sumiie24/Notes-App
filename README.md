@@ -40,7 +40,7 @@ Notes Application using NodeJS.
     [
        {
           "title": "Note 1",
-          "body": "Design Web Page"
+          "body": "Design a Web Page"
         },
       {
           "title": "Note 2",
