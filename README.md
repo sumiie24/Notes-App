@@ -13,9 +13,9 @@ Notes application by which we can Add a note, Remove a note, Read a specific not
     
     A. For Installing npm  
     ``` 
-    $ npm install 
+       $ npm install 
     ```
-    then
+   then
     
     B. For Adding a Note  
     ```
